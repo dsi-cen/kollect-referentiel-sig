@@ -1,1 +1,1 @@
-TRUNCATE TABLE referentiel.commune;
+DELETE FROM referentiel.commune;
