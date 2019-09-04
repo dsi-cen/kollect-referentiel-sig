@@ -52,4 +52,4 @@ Créer la table *comsaisie* et insérer la mise à jour, **n'insérer que les d�
 
 Après l'insertion du nouveau référentiel, vérifier le bon affichage de la carte dans l'onglet **BILAN** de Kollect. 
 
-En effet, selon l'emprise de votre application Kollect, il est possible que la carte bilan ne s'affiche pas (erreur 500). Les nouvelles géométries étant plus précises, il faudra alors augmenter la taille de votre mémoire dans votre `php.ini` : [plus de précisions dans la documentation](https://docs.kollect.fr/installation/#chargement-des-communes-sur-le-bilan).
+En effet, selon l'emprise de votre application Kollect, il est possible que la carte bilan ne s'affiche pas (erreur 500). Les nouvelles géométries étant plus précises, il faudra alors augmenter la taille de votre mémoire dans votre `php.ini` : [plus de précisions dans la documentation](https://docs.kollect.fr/installation/troubleshooting/#chargement-des-communes-sur-le-bilan).
